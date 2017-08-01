@@ -10,7 +10,7 @@ Clone this git repository or download the files to a specific folder on your com
 * media.py
 * run_page.py
 
-Open the command line terminal, change your working directory to your folder and run “python run_page.py”. 
+Open the command terminal, change your working directory to your folder and run “python run_page.py”. 
 
 
 
